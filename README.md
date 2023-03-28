@@ -33,4 +33,4 @@ After determining the weight of each question's answer I cleaned the data using 
 
 ![img1](Creative%20Science%20Dashboard/data/img1.PNG)
 ![img2](Creative%20Science%20Dashboard/data/img2.PNG)
-![img4](Creative%20Science%20Dashboard/data/img4.PNG)
+![img3](Creative%20Science%20Dashboard/data/img3.PNG)
