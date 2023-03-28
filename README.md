@@ -43,6 +43,6 @@ Below are some of the visualizations:
 ![img2](Creative%20Science%20Dashboard/data/img2.PNG)
 ![img3](Creative%20Science%20Dashboard/data/img3.PNG)
 
-
-
+# Other 
+Also included in the portfolio are games coded in C# using Unity Engine and some algorithm practice. Feel free to check them out.
 
