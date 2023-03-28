@@ -9,8 +9,10 @@ After cleaning the data, we were able to use some HTML/css to create some range 
 
 ![ex1](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_1.PNG)
 
-
+Furthermore, since elections are divided by districts, we utilized a geographic map of New York City along with the library pygeoj to create an interactive heat map. After hovering on a zip code, the summary statistics and time series of contributions for that zip code are shown in the graphs to the right of the map.
 
 ![ex2](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_2.PNG)
+
+
 
 ![ex3](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_3.PNG)
