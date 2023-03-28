@@ -1,6 +1,8 @@
 # Portfolio
 Hi, my name's Peter. Here are some miscellaneous projects I've worked on. Please also check out my other repositories as well!
 
+## Campaign Finance Dashboard
+
 I worked on a campaign finance dashboard that collected public campaign contributions data and put it in an easy to digest dashboard for local politicians to use to gain an edge over their competition.
 
 I made this alongside another colleague using Pandas to wrangle the data, creating visualizations using Plotly and then serving it to a Flask instance using Dash.
@@ -13,6 +15,8 @@ Furthermore, since elections are divided by districts, we utilized a geographic 
 
 ![ex2](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_2.PNG)
 
-
+Afterwards, all of the data that has been filtered is exportable via the dash table for easy-to-access information
 
 ![ex3](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_3.PNG)
+
+
