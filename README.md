@@ -1,2 +1,4 @@
 # Portfolio
-Hi, my name's Peter. Here you can find some examples of my code.
+Hi, my name's Peter. Here are some miscellaneous projects I've worked on.
+
+
