@@ -31,4 +31,6 @@ An assessment was done aiming to measure various cognitive traits within healthc
  
 After determining the weight of each question's answer I cleaned the data using Pandas and ran some exploratory analysis on the results. I was able to visualize some key results using Plotly and serving it to a Flask server and hosting that using Heroku for easy access to my client. Below are some of the visualizations:
 
-![img1](Creative%20Science%20Dashboard/img1.PNG)
+![img1](Creative%20Science%20Dashboard/data/img1.PNG)
+![img2](Creative%20Science%20Dashboard/data/img2.PNG)
+![img4](Creative%20Science%20Dashboard/data/img4.PNG)
