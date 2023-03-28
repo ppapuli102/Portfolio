@@ -5,9 +5,11 @@ I worked on a campaign finance dashboard that collected public campaign contribu
 
 I made this alongside another colleague using Pandas to wrangle the data, creating visualizations using Plotly and then serving it to a Flask instance using Dash.
 
-After cleaning the data, we were able to use some HTML/css to create some radio items and 
+After cleaning the data, we were able to use some HTML/css to create some range sliders and dropdowns to create filters for race type and candidate names. This filters our dataframe and dynamically updates values in some key cards and a contributions bar graph to the right (as shown in the image below)
 
 ![ex1](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_1.PNG)
+
+
 
 ![ex2](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_2.PNG)
 
