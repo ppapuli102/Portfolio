@@ -20,3 +20,15 @@ Afterwards, all of the data that has been filtered is exportable via the dash ta
 ![ex3](District%2024%20Election%20Dashboard%2006-2019/campaign_dashboard_3.PNG)
 
 
+## Behavioral Assessment of Healthcare Professionals
+
+An assessment was done aiming to measure various cognitive traits within healthcare professions. I was fortunate enough to aggregate, visualize, and analyze the results of this survey of around 2000 professionals from:
+ - Surgeons
+ - Admins
+ - Nurses
+ - Operating Room Staff
+ - General Physicians
+ 
+After determining the weight of each question's answer I cleaned the data using Pandas and ran some exploratory analysis on the results. I was able to visualize some key results using Plotly and serving it to a Flask server and hosting that using Heroku for easy access to my client. Below are some of the visualizations:
+
+![img1](Creative%20Science%20Dashboard/img1.PNG)
